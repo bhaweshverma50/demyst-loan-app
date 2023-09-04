@@ -37,9 +37,3 @@ If you would like to contribute to the project, please follow these guidelines:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-[Provide contact information or instructions on how to reach out for support or inquiries related to the project.]
-
-Feel free to customize and add more information based on your project's specific requirements.
